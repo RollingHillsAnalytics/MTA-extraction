@@ -1,2 +1,2 @@
 # MTA-extraction
-Python script to extract all turnstile data from the New York MTA website.
+Python script to extract turnstile data files from the New York MTA website.
