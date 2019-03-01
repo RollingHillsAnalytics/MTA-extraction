@@ -21,7 +21,7 @@ from displayduration import DisplayDuration
 
 
 # initialize variables and record starting time
-path = Path('e:/python/MTAturnstile')
+path = Path('<path/to/data/files>')
 previous_ca, previous_scp = '', ''
 previous_entries, previous_exits = 0, 0
 latestvalues = dict()
